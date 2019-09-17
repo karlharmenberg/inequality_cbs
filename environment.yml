@@ -1,0 +1,7 @@
+name: notebook-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pylab
